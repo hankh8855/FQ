@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 create project
   - flutter create [project title]
-  - flutter create flutter_quiz
+  - flutter create FlutterQuiz
 run project
   - flutter run
 
